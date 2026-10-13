@@ -16,7 +16,7 @@
     color: white;
 }
 
-header {
+.section {
     background-color: rgb(141, 200, 141);
     padding: 20px
 }
@@ -30,6 +30,11 @@ body {
 .profile-picture {
   width: 150px;
   height: 150px;
+  object-fit: cover;
+}
+
+.project-img {
+  height: 200px;
   object-fit: cover;
 }
 
