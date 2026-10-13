@@ -82,5 +82,5 @@ None!
 
 7. Is there anything special we need to know in order to run your code?
 
-No! I am excited to keep working on this portfolio. Right now my current portfolio on danielsalameh.com is built in framer and I am paying to have it hosted.
+Make sure you extract all the zipped file for the style.css to load properly! I am excited to keep working on this portfolio. Right now my current portfolio on danielsalameh.com is built in framer and I am paying to have it hosted.
 In the future I want to keep coding this portfolio and host it myself.
